@@ -1,2 +1,0 @@
-# mysvelteapp
-Begin app
